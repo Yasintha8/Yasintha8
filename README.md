@@ -1,4 +1,4 @@
-<div><img src="[https://github.com/SenukiPerera/SenukiPerera/blob/main/github.png](https://github.com/Yasintha8/Yasintha8/blob/main/githubbg.png)"></div>
+<div><img src="https://github.com/Yasintha8/Yasintha8/blob/main/githubbg.png"></div>
 <h1 align="center">Hi 👋, I'm Yasintha Chamikara</h1>
 <h3 align="center">I'm a Software Engineering Undergraduate in Sri Lanka. I am interested in Web Development and UI/UX Engineering.</h3>
 
