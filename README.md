@@ -1,5 +1,6 @@
 <div><img src="https://github.com/Yasintha8/Yasintha8/blob/main/githubbg.png"></div>
 <h1 align="center">Hi 👋, I'm Yasintha Chamikara</h1>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">I'm a Software Engineering Undergraduate in Sri Lanka. I am interested in Web Development and UI/UX Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasintha8&label=Profile%20views&color=0e75b6&style=flat" alt="yasintha8" /> </p>
