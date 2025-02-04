@@ -18,16 +18,8 @@
 
 ---
 
-### 🌍 Connect with Me
-<div align="center">
-    <h2>Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
-    <a href='https://www.linkedin.com/in/yasintha-chamikara-0493392b2/'><img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'/></a>
-    <a href='https://github.com/Yasintha8'><img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'/></a>
-</div>
-
----
-
 ### 🛠 Languages & Tools
+
 <div align="center">
     <p>
         <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
@@ -53,6 +45,17 @@
 </div>
 
 ---
+
+
+### 🌍 Connect with Me
+<div align="center">
+    <h2>Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+    <a href='https://www.linkedin.com/in/yasintha-chamikara-0493392b2/'><img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'/></a>
+    <a href='https://github.com/Yasintha8'><img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'/></a>
+</div>
+
+---
+
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100px">
