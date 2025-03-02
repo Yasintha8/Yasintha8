@@ -1,4 +1,4 @@
-![Header](https://github.com/Yasintha8/Yasintha8/blob/main/github_cover.png)
+![Header](https://github.com/Yasintha8/Yasintha8/blob/main/github_cover_.png)
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100px">
